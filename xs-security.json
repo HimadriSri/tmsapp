@@ -8,11 +8,6 @@
         }
         ,
         {
-            "name": "$XSAPPNAME.Viewer",
-            "granted-apps": ["$XSAPPNAME(application,)"],
-            "description": "Viewer"
-        },
-        {
             "name": "$XSAPPNAME.Admin",
             "description": "Administrator"
         }
